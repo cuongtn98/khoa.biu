@@ -1,0 +1,22 @@
+
+th {
+    border:1px solid;
+}
+td {
+    border: 1px solid ;
+}
+table {
+    border: 1px solid black;
+    margin: 50px;
+
+}
+td {
+    padding: 10px 100px;
+}
+th {
+    padding: 20px 25px;
+}
+th {
+    background-color: red;
+    color: white;
+}
